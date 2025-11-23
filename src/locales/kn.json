@@ -1,0 +1,40 @@
+{
+  "sidebar": {
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "documentVerification": "ಡಾಕ್ಯುಮೆಂಟ್ ಪರಿಶೀಲನೆ",
+    "faceVerification": "ಮುಖ ಪರಿಶೀಲನೆ",
+    "riskScoring": "ಅಪಾಯದ ಅಂಕಗಳು",
+    "auditTrail": "ಆಡಿಟ್ ಟ್ರಯಲ್",
+    "supportChat": "ಬೆಂಬಲ ಚಾಟ್"
+  },
+  "appHeader": {
+    "profile": "ಪ್ರೊಫೈಲ್",
+    "settings": "ಸಂಯೋಜನೆಗಳು",
+    "logout": "ಲಾಗ್ ಔಟ್"
+  },
+  "pages": {
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "document-verification": "ಡಾಕ್ಯುಮೆಂಟ್ ಪರಿಶೀಲನೆ",
+    "face-verification": "ಮುಖ ಪರಿಶೀಲನೆ",
+    "risk-scoring": "ಅಪಾಯದ ಅಂಕಗಳು",
+    "audit-trail": "ಆಡಿಟ್ ಟ್ರಯಲ್",
+    "support-chat": "ಬೆಂಬಲ ಚಾಟ್"
+  },
+  "dashboard": {
+    "totalVerifications": "ಒಟ್ಟು ಪರಿಶೀಲನೆಗಳು",
+    "fromLastMonth": "ಕಳೆದ ತಿಂಗಳಿನಿಂದ",
+    "highRiskAlerts": "ಹೆಚ್ಚಿನ ಅಪಾಯದ ಎಚ್ಚರಿಕೆಗಳು",
+    "avgProcessingTime": "ಸರಾಸರಿ ಸಂಸ್ಕರಣಾ ಸಮಯ",
+    "automationRate": "ಸ್ವಯಂಚಾಲನ ದರ",
+    "verificationTrends": "ಪರಿಶೀಲನಾ ಪ್ರವೃತ್ತಿಗಳು",
+    "last7Months": "ಕಳೆದ 7 ತಿಂಗಳುಗಳು",
+    "verifications": "ಪರಿಶೀಲನೆಗಳು",
+    "fraudAlerts": "ವಂಚನೆ ಎಚ್ಚರಿಕೆಗಳು",
+    "recentActivities": "ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆಗಳು",
+    "recentActivitiesDesc": "ಇತ್ತೀಚಿನ ಬಳಕೆದಾರರ ಪರಿಶೀಲನಾ ಚಟುವಟಿಕೆಗಳ ದಾಖಲೆ.",
+    "user": "ಬಳಕೆದಾರ",
+    "status": "ಸ್ಥಿತಿ",
+    "risk": "ಅಪಾಯ",
+    "date": "ದಿನಾಂಕ"
+  }
+}

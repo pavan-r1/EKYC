@@ -1,0 +1,40 @@
+{
+  "sidebar": {
+    "dashboard": "डैशबोर्ड",
+    "documentVerification": "दस्तावेज़ सत्यापन",
+    "faceVerification": "चेहरा सत्यापन",
+    "riskScoring": "जोखिम स्कोरिंग",
+    "auditTrail": "लेखा परीक्षा",
+    "supportChat": "सहायता चैट"
+  },
+  "appHeader": {
+    "profile": "प्रोफ़ाइल",
+    "settings": "सेटिंग्स",
+    "logout": "लॉग आउट करें"
+  },
+  "pages": {
+    "dashboard": "डैशबोर्ड",
+    "document-verification": "दस्तावेज़ सत्यापन",
+    "face-verification": "चेहरा सत्यापन",
+    "risk-scoring": "जोखिम स्कोरिंग",
+    "audit-trail": "लेखा परीक्षा",
+    "support-chat": "सहायता चैट"
+  },
+  "dashboard": {
+    "totalVerifications": "कुल सत्यापन",
+    "fromLastMonth": "पिछले महीने से",
+    "highRiskAlerts": "उच्च-जोखिम अलर्ट",
+    "avgProcessingTime": "औसत प्रसंस्करण समय",
+    "automationRate": "स्वचालन दर",
+    "verificationTrends": "सत्यापन रुझान",
+    "last7Months": "पिछले 7 महीने",
+    "verifications": "सत्यापन",
+    "fraudAlerts": "धोखाधड़ी अलर्ट",
+    "recentActivities": "हाल की गतिविधियां",
+    "recentActivitiesDesc": "हाल की उपयोगकर्ता सत्यापन गतिविधियों का एक लॉग।",
+    "user": "उपयोगकर्ता",
+    "status": "स्थिति",
+    "risk": "जोखिम",
+    "date": "तारीख"
+  }
+}

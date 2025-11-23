@@ -1,0 +1,40 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "documentVerification": "Document Verification",
+    "faceVerification": "Face Verification",
+    "riskScoring": "Risk Scoring",
+    "auditTrail": "Audit Trail",
+    "supportChat": "Support Chat"
+  },
+  "appHeader": {
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Log out"
+  },
+  "pages": {
+    "dashboard": "Dashboard",
+    "document-verification": "Document Verification",
+    "face-verification": "Face Verification",
+    "risk-scoring": "Risk Scoring",
+    "audit-trail": "Audit Trail",
+    "support-chat": "Support Chat"
+  },
+  "dashboard": {
+    "totalVerifications": "Total Verifications",
+    "fromLastMonth": "from last month",
+    "highRiskAlerts": "High-Risk Alerts",
+    "avgProcessingTime": "Avg. Processing Time",
+    "automationRate": "Automation Rate",
+    "verificationTrends": "Verification Trends",
+    "last7Months": "Last 7 months",
+    "verifications": "Verifications",
+    "fraudAlerts": "Fraud Alerts",
+    "recentActivities": "Recent Activities",
+    "recentActivitiesDesc": "A log of recent user verification activities.",
+    "user": "User",
+    "status": "Status",
+    "risk": "Risk",
+    "date": "Date"
+  }
+}
